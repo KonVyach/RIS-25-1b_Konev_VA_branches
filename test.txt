@@ -1,4 +1,1 @@
-This is for practice
-new string
-new int[] {1, 2, 3, 4, 5}
-я делаю это для домашнего задания
+
